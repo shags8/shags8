@@ -1,6 +1,6 @@
 # ShagunChahar
 [![Twitter Badge](https://img.shields.io/badge/@Shagunchahar8-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Shagunchahar8)
-[![Linkedin Badge](https://img.shields.io/badge/ShagunChahar-30302f?style=flat&logo=linkedin)](www.linkedin.com/in/shagun-chahar)
+[![Linkedin Badge](https://img.shields.io/badge/ShagunChahar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/shagun-chahar/)
 [![Gmail Badge](https://img.shields.io/badge/Shagunchahar8@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:Shagunchahar8@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=ShagunChahar.ShagunChahar) 
 
