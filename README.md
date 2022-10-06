@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: mail me at [Shagunchahar8@gmail.com](mailto:Shagunchahar8@gmail.com)
 
-- ⚡ Fun fact: Everyone like to code at night but i love to code at early morning 😉! 
+- ⚡ Fun fact: Copy-and-Paste was programmed by programmers for programmers actually. 
 
 <a href="https://Shags8.github.io">
   
