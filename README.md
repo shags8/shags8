@@ -17,15 +17,15 @@
 
 - ⚡ Fun fact: Everyone like to code at night but i love to code at early morning 😉! 
 
-<a href="https://ShagunChahar.github.io">
+<a href="https://Shags8.github.io">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ShagunChahar&count_private=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shags8&count_private=true" align="center"/>
   
 </a>
 
 <a href="https://shagun7393065010.github.io">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShagunChahar&layout=compact" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shags8&layout=compact" align="center"/>
 
 </a>
 
